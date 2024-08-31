@@ -1,0 +1,9 @@
+
+
+LEN@LAPTOP-L8PRRRTE MINGW64 /d/GitRepository (master)
+$ git status
+mmit 2c1d27a7f20e8b601fae69c1ff6de625cdf40858 (HEAD -> master)
+Author: len <1009398621@qq.com>
+Date:   Sun Sep 1 01:14:09 2024 +0800
+
+    add file1
